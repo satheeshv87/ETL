@@ -1,25 +1,13 @@
 # Extract
 Downloaded csv files from 3 different personnel bank accounts, including two credit card accounts and a checking account.
 
-File 1 Columns
-- Transaction Date
-- Post Date
-- Description
-- Type
-- Amount
-
-File 2 Columns
-- Date
-- Description
-- Amount
-- Running Bal
-
-File 3 Columns
-- Posted Date
-- Reference Number
-- Payee
-- Address
-- Amount
+| File 1 Columns    | File 2 Columns  | File 3 Columns    |
+| -------------     | -------------   | -------------     |
+| Transaction Date  | Date            | Posted Date       |
+| Post Date         | Description     | Reference Number  |
+| Description       | Amount          | Payee             |
+| Type              | Running Bal.    | Address           |
+| Amount            |                 | Amount            |
 
 # Transform
 Following transformations are done to consolidate data from three files.
