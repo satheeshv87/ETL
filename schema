@@ -1,0 +1,9 @@
+CREATE TABLE transactions
+(
+    index	 	int 	PRIMARY KEY,
+	post_date 	date	NOT NULL,
+	description varchar,
+	amount	 	float	NOT NULL,
+	tran_type 	varchar(50),
+	category 	varchar
+)
