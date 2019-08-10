@@ -1,5 +1,5 @@
 # Extract
-Downloaded csv files from 3 different personnel bank accounts, including two credit card accounts and a checking account.
+Downloaded csv files from 3 different personnel bank accounts, including two credit card accounts and a checking account. Each file had different columns and the details are listed in the below table:
 
 | File 1 Columns    | File 2 Columns  | File 3 Columns    |
 | -------------     | -------------   | -------------     |
