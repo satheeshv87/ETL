@@ -1,5 +1,3 @@
-# ETL Project
-
 # Extract
 Downloaded csv files from 3 different personnel bank accounts, including two credit card accounts and a checking account.
 
